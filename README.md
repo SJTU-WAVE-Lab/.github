@@ -1,7 +1,6 @@
 # WAVE Lab
 ## Wireless & Autonomous Vehicle Engineering Lab
 
-**Shanghai Jiao Tong University | 上海交通大学**
 
 Welcome to the GitHub home of **WAVE Lab**. Our research focuses on **marine robotics, reinforcement learning, and wireless communications**, with the goal of building autonomous systems that can learn, communicate, and operate reliably in complex ocean environments.
 
@@ -22,15 +21,6 @@ The ocean presents challenges that cannot be addressed by autonomy or connectivi
   探索基于强化学习的决策与控制方法，关注策略的鲁棒性、环境适应能力以及从仿真到真实机器人的迁移。
 
 - **Wireless Communications | 无线通信**  
-  Underwater acoustic and marine wireless communications, networked robotic systems, and communication-aware coordination.  
-  研究水声与海洋无线通信、网络化机器人系统，以及考虑通信约束的协同方法。
+  Underwater acoustic and optical communications, networked robotic systems, and communication-aware coordination.  
+  研究声光通信、网络化机器人系统，以及考虑通信约束的协同方法。
 
-## Code & Collaboration | 代码与合作
-
-This organization hosts research code, simulation environments, engineering tools, and project documentation as they become available. We value reproducible research, clear documentation, and collaboration across robotics, machine learning, and communications.
-
-We welcome discussions and collaboration around marine autonomy and connected robotic systems. For questions about a released project, please open an issue in the relevant repository.
-
-本组织将陆续整理和发布研究代码、仿真环境、工程工具与项目文档。我们重视研究的可复现性、清晰的技术记录，以及机器人、机器学习与通信领域之间的交流合作。
-
-欢迎围绕海洋自主系统与互联机器人开展讨论与合作。如对已发布项目有疑问，请在对应仓库中提交 Issue。
